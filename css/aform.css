@@ -1,0 +1,31 @@
+body {
+    background-color: #F5CAC3;
+}
+
+
+#kitten {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 100%;
+}
+
+#mainForm {
+    border: 2px solid #84a59d;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: #F7EDE2;
+}
+
+#otherSection {
+    border: 2px solid #84a59d;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #F7EDE2;
+}
+
+footer {
+    color: #84a59d;
+}
